@@ -1,0 +1,1 @@
+Welcome to the javascript2014 wiki!
