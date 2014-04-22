@@ -1,1 +1,4 @@
-Welcome to the javascript2014 wiki!
+JavaScriptで世界平和2014の資料集です！！！！！！！！
+
+- [第1回(2014/04/15)](./wiki/001)
+- [第2回(2014/04/22)](./wiki/002)
